@@ -8,8 +8,8 @@
     显示实际写入的总数据量。
 .NOTES
     文件名：Fill-Udisk-Completely.ps1
-    作者：DEEPSEEK
     版本：2.0
+    仅供娱乐，注意备份数据
 #>
 
 # 引入用于选择文件夹的程序集
