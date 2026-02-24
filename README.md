@@ -5,5 +5,4 @@
     直至磁盘空间完全耗尽（无法再写入任何字节），最后以GB、MB、KB为单位显示实际写入的总数据量。
 
     文件名：Fill-Udisk-Completely.ps1
-    作者：DEEPSEEK
     版本：2.0
